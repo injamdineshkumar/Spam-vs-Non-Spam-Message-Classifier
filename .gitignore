@@ -1,0 +1,5 @@
+.venv/
+spam.csv
+spam_classifier.joblib
+__pycache__/
+*.py[cod]
